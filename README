@@ -1,0 +1,5 @@
+laboratorio de arquitetura de computadores MC723 ic -unicamp.
+***************************************************************************
+programa simples para fazer benchmark de acesso a disco
+./benchmark yourfilestream
+mede o tempo de acesso a um stream em disco, usando o fread com blocos de 4K
